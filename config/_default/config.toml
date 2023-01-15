@@ -1,0 +1,11 @@
+baseURL = 'https://werust.com/'
+languageCode = 'en-us'
+title = 'WeRust'
+paginate = 5
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
