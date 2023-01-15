@@ -2,3 +2,10 @@ ShowShareButtons = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 showtoc = true
+author = "WeRust"
+
+[homeInfoParams]
+Title = "WeRust 🦀"
+Content = """
+Welcome to WeRust, the ultimate destination for mastering the powerful and efficient Rust programming language. Our comprehensive tutorials and examples cover everything from the basics to advanced concepts, making it easy for anyone to learn and improve their skills. Whether you're a beginner looking to get started or an experienced developer looking to expand your knowledge, WeRust has everything you need to become a pro at Rust programming.
+"""
