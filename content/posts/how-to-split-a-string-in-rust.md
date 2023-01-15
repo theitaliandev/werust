@@ -1,7 +1,7 @@
 ---
 title: "How to Split a String in Rust?"
 date: "2023-01-15"
-description: "A brief description of Hugo Shortcodes"
+description: "Learn how to split a string in Rust with this step-by-step guide. Understand the different methods and techniques for string splitting in this comprehensive article. #Rust #StringManipulation #Programming"
 ShowToc: true
 ---
 
