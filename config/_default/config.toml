@@ -9,3 +9,9 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 enableEmoji = true
+
+[minify]
+disableXML = true
+
+[outputs]
+home = [ 'HTML', 'RSS', 'JSON' ]

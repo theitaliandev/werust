@@ -1,6 +1,6 @@
 ---
 title: "How to Find the Index of an Element in an Array Using Rust?"
-date: "2023-15-01"
+date: 2023-01-15T15:04:11Z
 description: "Learn 5 ways to find the index of an element in an array using Rust. Discover efficient methods like .iter().position(), .enumerate(), .find(), .indexOf() and .binary_search() to optimize your code."
 ShowToc: true
 ---

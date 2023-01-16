@@ -1,6 +1,6 @@
 ---
 title: "How to Split a String in Rust?"
-date: "2023-15-01"
+date: 2023-01-15T21:14:42Z
 description: "Learn how to split a string in Rust with this step-by-step guide. Understand the different methods and techniques for string splitting in this comprehensive article. #Rust #StringManipulation #Programming"
 ShowToc: true
 ---
