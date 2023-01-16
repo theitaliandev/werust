@@ -11,7 +11,7 @@ Welcome to WeRust, the ultimate destination for mastering the powerful and effic
 """
 
 [assets]
-favicon = "favicon.ico"
 favicon16x16 = "favicon-16x16.png"
 favicon32x32 = "favicon-32x32.png"
 apple_touch_icon = "apple-touch-icon.png"
+site_webmanifest = "site.webmanifest"
